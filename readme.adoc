@@ -17,7 +17,6 @@ This project was carried out with the aim of developing my java skills. The name
 == How to run the application?
 
 * In the IDE: find `Main.java`, right-click project, select "Run As > Java Application"
-* From the command line: run `java -jar hangman.jar`
-* Make sure that the "files" folder containing the dictionary files is in the main directory (in case you have used the command line)
+* From the command line: run `java -jar super-mario.jar`
 
 image:smb.png[Home page]
